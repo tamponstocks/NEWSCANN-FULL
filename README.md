@@ -1,0 +1,2 @@
+# NEWSCANN-FULL
+Full site
